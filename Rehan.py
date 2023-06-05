@@ -68,7 +68,7 @@ logo=("""\033[1;32m
 def linex():
         print('\033[1;37m----------------------------------------------')
 def clear():
-        os.system('xdg-open https://youtu.be/0M2HRzZ-Keo')
+        os.system('clear')
         print(logo)
 loop=0
 oks=[]
